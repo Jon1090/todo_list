@@ -1,2 +1,2 @@
 # ToDo-List
-test edit
+Simple to do list web app
